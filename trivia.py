@@ -1,0 +1,1 @@
+CATEGORIES = '[Astronomy,Biology,Books,Cars,Chess,Economy,Flags,General Knowledge,Geography,History,Math,Minecraft,Movies,Politics,Programming,Riddles,Science,Technology]'
